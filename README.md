@@ -46,8 +46,11 @@ Este projeto é um estudo de caso dividido em **duas partes**: Web e Mobile. Ele
 ### Mobile
 
 HomeScreen → Tela inicial
+
 AlunosScreen → Listagem de alunos
+
 DetalhesScreen → Detalhes e edição do aluno
+
 CadastrarAlunoScreen → Cadastro de aluno
 
 ## 🔧 API
