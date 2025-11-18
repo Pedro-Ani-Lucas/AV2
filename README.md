@@ -41,6 +41,7 @@ Este projeto é um estudo de caso dividido em **duas partes**: Web e Mobile. Ele
 ### Web
 
 / → Listagem de alunos
+
 /alunos/:id → Detalhes do aluno
 
 ### Mobile
@@ -56,18 +57,29 @@ CadastrarAlunoScreen → Cadastro de aluno
 ## 🔧 API
 
 ### URL Base: https://proweb.leoproti.com.br/alunos
+
 GET /alunos → Listar alunos
+
 POST /alunos → Cadastrar aluno
+
 PUT /alunos/:id → Atualizar aluno
 
 ## 📚 Créditos / Referências
 
 React: https://react.dev/
+
 Vite: https://vitejs.dev/
+
 React Router DOM: https://reactrouter.com/
+
 Axios: https://axios-http.com/
+
 Expo: https://expo.dev/
+
 React Native: https://reactnative.dev/
+
 React Testing Library: https://testing-library.com/
+
 Vitest: https://vitest.dev/
+
 Auditoria realizada por: **Pedro Lucas Pereira**
