@@ -21,20 +21,20 @@ Este projeto é um estudo de caso dividido em **duas partes**: Web e Mobile. Ele
 - Consumo da API REST de alunos
 - Testes automatizados
 
-##🚀 Instruções de Instalação e Execução
-###📌 Pré-requisitos
+## 🚀 Instruções de Instalação e Execução
+### 📌 Pré-requisitos
 
 Node.js instalado (versão 18+ recomendada)
 
 NPM ou Yarn
 
-###📦 Instalação
+### 📦 Instalação
 
 cd web
 
 npm install
 
-###▶️ Execução em ambiente de desenvolvimento
+### ▶️ Execução em ambiente de desenvolvimento
 
 npm run dev
 
@@ -42,11 +42,11 @@ A aplicação será iniciada normalmente em algo como:
 
 http://localhost:5173
 
-###🧪 Rodar Testes Automatizados
+### 🧪 Rodar Testes Automatizados
 
 npm run test
 
-###🏗️ Build para produção
+### 🏗️ Build para produção
 
 npm run build
 
@@ -93,7 +93,7 @@ POST /alunos → Cadastrar aluno
 
 PUT /alunos/:id → Atualizar aluno
 
-###📌 Pré-requisitos
+### 📌 Pré-requisitos
 
 - Node.js
 
@@ -103,13 +103,13 @@ npm install -g expo-cli
 
 *Aplicativo Expo Go no celular ou emulador Android/iOS instalado no computador.*
 
-###📦 Instalação
+### 📦 Instalação
 
 cd mobile
 
 npm install
 
-###▶️ Executar o projeto Mobile
+### ▶️ Executar o projeto Mobile
 
 npx expo start
 
